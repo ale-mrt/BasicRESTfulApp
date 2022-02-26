@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+td, th{
+    text-align: center;
+    border: 1px black solid;
+}
+
+.even{
+    background-color: darkgray;
+}
